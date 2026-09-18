@@ -24,5 +24,6 @@ Supported features:
 - [x] ADSP and CDSP - need firmware
   - [x] Battery indicator - needs separate [driver](https://github.com/zensanp/linux-book4-edge/issues/4)
 - [ ] Audio - untested (no HW protection. Proceed at own risk.)
+  - [ ] Mic
 - [x] Sleep - Does it work? [Yes]. Does it save power? [Not really].
-- [ ] Webcam + Mic
+- [x] Webcam - Adapted from the [15.6" X1P42100 Book4 Edge (X1 Plus)](https://github.com/ciscobugger/book4-edge-linux). Needs libcamera patch
